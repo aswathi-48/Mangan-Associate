@@ -1398,8 +1398,8 @@ hr {
     }
 
     .Service-text p {
-        padding: 0px 0px 0px;
-        margin-left: 50px;
+ 
+        margin-left: 12px;
     }
 
     .Service-text {
@@ -1412,14 +1412,15 @@ hr {
     .image-box2,
     .logo-text {
         min-height: 0;
-        padding: 23px 0px;
+        padding: 3px 0px;
+        text-align: center;
 
     }
 
     .service .Image-Text,
     .Image-Text-two {
         min-height: 450px;
-        max-width: 95%;
+        max-width: 100%;
 
     }
 
@@ -1430,7 +1431,7 @@ hr {
 
     .description {
         display: block;
-        padding: 0px 15px;
+        padding: 0px 16px;
     }
 
     .description .content {
@@ -1471,7 +1472,7 @@ hr {
 
     .viewall-button {
         font-size: 14px;
-        margin-left: 15%;
+        margin-left: 10%;
         margin-top: 20px;
     }
 
@@ -1494,8 +1495,8 @@ hr {
 
     .container-arrow-container-two div #prevs {
         position: relative;
-        left: -52px;
-        top: 156px;
+        left: -27px;
+        top: 129px;
     }
 
     .container-arrow-container-two div #prevs img {
@@ -1505,13 +1506,19 @@ hr {
     .container-arrow-container-two div #nexts {
         position: relative;
         right: -92px;
-        top: 156px;
+        top: 129px;
     }
 
     #prev {
         position: relative;
         left: -70px;
         right: 0;
+    }
+    .about-us .wrapper-content  {
+        text-align: center;
+    }
+    .wrapper-btn {
+        margin-left: 20%;
     }
 
     #prev::before {
