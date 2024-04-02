@@ -1442,7 +1442,7 @@ hr {
     }
 
     .description .imagetext {
-        max-width: 63%;
+        max-width: 68%;
 
     }
 
@@ -1451,7 +1451,7 @@ hr {
     }
 
     .content img {
-        max-width: 69%;
+        max-width: 74%;
         min-height: 250px;
         padding-top: 15px;
     }
@@ -1472,7 +1472,7 @@ hr {
 
     .viewall-button {
         font-size: 14px;
-        margin-left: 10%;
+        margin-left: 16%;
         margin-top: 20px;
     }
 
@@ -1505,7 +1505,7 @@ hr {
 
     .container-arrow-container-two div #nexts {
         position: relative;
-        right: -92px;
+        right: -102px;
         top: 129px;
     }
 
@@ -1518,7 +1518,7 @@ hr {
         text-align: center;
     }
     .wrapper-btn {
-        margin-left: 20%;
+        margin-left: 29%;
     }
 
     #prev::before {
@@ -1573,6 +1573,9 @@ hr {
         display: grid;
         grid-template-columns: 1fr;
 
+    }
+    .section-four .container .service .Service-text p {
+        margin-left: 14%;
     }
 
     .contact-us h3 {
